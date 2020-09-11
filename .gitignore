@@ -24,3 +24,7 @@ hs_err_pid*
 
 #Build Directory
 build
+
+#gradle files
+gradlew
+gradlew.bat
