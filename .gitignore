@@ -28,3 +28,6 @@ build
 #gradle files
 gradlew
 gradlew.bat
+
+#gradle directory
+.gradle
